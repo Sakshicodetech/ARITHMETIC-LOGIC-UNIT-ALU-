@@ -27,6 +27,11 @@
 
 [TASK 3 PIPELINE PROCESSOR DESIGN.docx](https://github.com/user-attachments/files/18321316/TASK.3.PIPELINE.PROCESSOR.DESIGN.docx)
 
+# OUTPUT OF TASK 4
+
+[TASK 4.docx](https://github.com/user-attachments/files/18321538/TASK.4.docx)
+
+
 
 
 
