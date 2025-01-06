@@ -14,6 +14,12 @@
 
 #ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
-# OUTPUT OF THE TASK 
+# OUTPUT OF THE TASK 1
 
 [TASK 1 ALU.docx](https://github.com/user-attachments/files/18320704/TASK.1.ALU.docx)
+
+# OUTPUT OF THE TASK 2
+
+[TASK 2 RAM DESIGN.docx](https://github.com/user-attachments/files/18320899/TASK.2.RAM.DESIGN.docx)
+
+
