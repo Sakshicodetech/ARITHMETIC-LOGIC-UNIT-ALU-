@@ -22,4 +22,11 @@
 
 [TASK 2 RAM DESIGN.docx](https://github.com/user-attachments/files/18320899/TASK.2.RAM.DESIGN.docx)
 
+# OUTPUT OF TASK 3
+
+
+[TASK 3 PIPELINE PROCESSOR DESIGN.docx](https://github.com/user-attachments/files/18321316/TASK.3.PIPELINE.PROCESSOR.DESIGN.docx)
+
+
+
 
